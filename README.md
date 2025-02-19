@@ -31,7 +31,7 @@ This data is published under a [**Creative Commons BY 4.0**](https://creativecom
 
 ## Related Works
 
--   Data on Zenodo (link TBA)
+-   Data on Zenodo ([Flores et al. 2025](https://doi.org/10.5281/zenodo.14891980))
 
 -   Scientific Preprint Paper (link tba)
 
@@ -59,11 +59,13 @@ The data is provided as "critter_data.csv" in the repositories main folder.
 Please see the methods section of the original publication (Aranbarri et al. unpublished, link tba) for details on how the data was collected.
 
 ## Funding Information
+
 -   Mireia Aranbarri was funded by the **Investigo Programm funded by the NextGenerationEU initiative**.
 -   Lorea Flores was funded by a grant by the **Spanish Ministry of Education and Culture**.
 -   Ioar de Guzmán was funded by the **Spanish Ministry of Science, Innovation and Universities (TED2021-129966B-C31)**.
 -   Julia Reiss was supported by a **Royal Society of London Starting Grant**.
 -   Björn C. Rall gratefully acknowledges the funding by the **German Science Foundation (DFG) to the Research Unit DynaSym (FOR 5064)**.
 
-## Acknowledgements 
+## Acknowledgements
+
 -   We thank the **WWT London** for the permission to sample damselflies and backswimmers on their grounds and **Szymon Szary** for his assistance in the field and laboratory.
