@@ -12,21 +12,27 @@ This data is published under a [**Creative Commons BY 4.0**](https://creativecom
 
 -   Lorea Flores ([0000-0002-0082-4072](https://orcid.org/0000-0002-0082-4072))
     -   Data Collection, Experimental Design, Data Curation
-    -   INRA, UMR 1224, Ecologie Comportementale et Biologie des Populations de Poissons, Aquapôle, quartier Ibarron, 64310 Saint-Pée sur Nivelle, France
+    -   [lflorescompains@gmail.com](lflorescompains@gmail.com)
+    -   Laboratory of Stream Ecology, Department of Plant Biology and Ecology, Faculty of Science and Technology, University of the Basque Country, UPV/EHU PO Box 644, 48080 Bilbao, Spain
 -   Julia Reiss ([0000-0002-3740-0046](https://orcid.org/0000-0002-3740-0046))
     -   Experimental Design, Data Curation
+    -   [julia.reiss@brunel.ac.uk](julia.reiss@brunel.ac.uk)
     -   Division of Environmental Sciences, College of Health, Medicine and Life Sciences, Brunel University of London, Uxbridge, UB8 3PH, UK.
 -   Aitor Larrañaga ([0000-0002-0185-9154](https://orcid.org/0000-0002-0185-9154))
     -   Experimental Design, Data Curation
+    -   [aitor.larranagaa@ehu.eus](aitor.larranagaa@ehu.eus)
     -   Laboratory of Stream Ecology, Dept. of Plant Biology and Ecology, Faculty of Science and Technology, University of the Basque Country, UPV/EHU PO Box 644, 48080 Bilbao, Spain.
 -   Björn C. Rall ([0000-0002-3191-8389](https://orcid.org/0000-0002-3191-8389))
     -   Experimental Design, Data Curation
+    -   [bjoern.rall@uni-konstanz.de](bjoern.rall@uni-konstanz.de)
     -   Aquatic Ecology and Evolution Group, Limnological Institute, University of Konstanz, Mainaustraße 252, 78464 Konstanz/Egg, Germany
 -   Mireia Aranbarri ([0009-0001-3506-0914](https://orcid.org/0009-0001-3506-0914))
     -   Data Curation
+    -   [mireia.arambarri@ehu.eus](mireia.arambarri@ehu.eus)
     -   Laboratory of Stream Ecology, Dept. of Plant Biology and Ecology, Faculty of Science and Technology, University of the Basque Country, UPV/EHU PO Box 644, 48080 Bilbao, Spain.
 -   Ioar de Guzmán ([0000-0001-8894-8477](https://orcid.org/0000-0001-8894-8477))
     -   Data Curation
+    -   [mirenioar.deguzman@ehu.eus](mirenioar.deguzman@ehu.eus)
     -   Laboratory of Stream Ecology, Dept. of Plant Biology and Ecology, Faculty of Science and Technology, University of the Basque Country, UPV/EHU PO Box 644, 48080 Bilbao, Spain.
 
 ## Related Works
