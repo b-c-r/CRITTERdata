@@ -6,7 +6,7 @@ This data is a supplement to the upcoming publication of Aranbarri et al. (unpub
 
 ## License
 
-This data is published under a [**Creative Commons BY 4.0**](https://creativecommons.org/licenses/by/4.0/)**.**
+This data is published under a [**Creative Commons BY 4.0**](https://creativecommons.org/licenses/by/4.0/) license.
 
 ## Authors
 
@@ -31,13 +31,19 @@ This data is published under a [**Creative Commons BY 4.0**](https://creativecom
 
 ## Related Works
 
--   Data on Zenodo ([Flores et al. 2025](https://doi.org/10.5281/zenodo.14891980))
+-   [Data on Zenodo](https://doi.org/10.5281/zenodo.14891980) [@FloresEtAl2025ComplexityReducesFeedingData]
+
+-   [Data on GitHub](https://github.com/b-c-r/CRITTERdata)
+
+-   [R-Code on Zenodo](https://doi.org/10.5281/zenodo.14894598) [@RallEtAl2025ComplexityReducesFeedingCode]
+
+-   [R-Code on GitHub](https://github.com/b-c-r/CRITTERdata)
+
+-   [Statistical Report on GitHub](https://github.com/b-c-r/CRITTERstatistics)
+
+-   Statistical Report on Zenodo (link tba)
 
 -   Scientific Preprint Paper (link tba)
-
--   R-Code (link tba)
-
--   Supplementary Statistical Report (link tba)
 
 ## Data Location
 
