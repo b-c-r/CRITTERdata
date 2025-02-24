@@ -16,7 +16,7 @@ This data is published under a [**Creative Commons BY 4.0**](https://creativecom
     -   Laboratory of Stream Ecology, Department of Plant Biology and Ecology, Faculty of Science and Technology, University of the Basque Country, UPV/EHU PO Box 644, 48080 Bilbao, Spain
 -   Julia Reiss ([0000-0002-3740-0046](https://orcid.org/0000-0002-3740-0046))
     -   Experimental Design, Data Curation
-    -   [julia.reiss@roehampton.ac.uk](julia.reiss@roehampton.ac.uk)
+    -   [julia.reiss@brunel.ac.uk](julia.reiss@brunel.ac.uk)
     -   Centre for Pollution Research and Policy, Brunel University of London, Uxbridge, UB8 3PH, UK
 -   Aitor Larrañaga ([0000-0002-0185-9154](https://orcid.org/0000-0002-0185-9154))
     -   Experimental Design, Data Curation
