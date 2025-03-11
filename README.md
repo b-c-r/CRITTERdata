@@ -45,11 +45,11 @@ This data is published under a [**Creative Commons BY 4.0**](https://creativecom
 
 -   [R-Code on GitHub](https://github.com/b-c-r/CRITTERdata)
 
+-   [Statistical Report on Zenodo](https://doi.org/10.5281/zenodo.14898819) [@RallEtAl2025ComplexityReducesFeedingStatistics]
+
 -   [Statistical Report on GitHub](https://github.com/b-c-r/CRITTERstatistics)
 
--   Statistical Report on Zenodo (link tba)
-
--   Scientific Preprint Paper (link tba)
+-   [Scientific Preprint Article](https://doi.org/10.1101/2025.02.22.639633) [@AranbarriEtAl2025ComplexityReducesFeeding]
 
 ## Data Location
 
