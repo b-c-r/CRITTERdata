@@ -1,7 +1,7 @@
 Habitat *c*omplexity *r*educes feed*i*ng s*t*reng*t*h of fr*e*shwater
 p*r*edators (CRITTER, Data Repository)
 ================
-2025-03-11
+2025-03-19
 
 ## Summary
 
@@ -12,12 +12,12 @@ information on related works.
 
 ## License
 
-This data is published under a [**Creative Commons BY
+The data and the pictures are published under a [**Creative Commons BY
 4.0**](https://creativecommons.org/licenses/by/4.0/) license.
 
 ## How to cite:
 
-If you use our data, please cite us:
+If you use our data or our habitat pictograms, please cite us:
 
 Flores et al. (2025): Habitat complexity reduces feeding strength of
 freshwater predators (CRITTER) - Data. Zenodo.
@@ -27,7 +27,7 @@ freshwater predators (CRITTER) - Data. Zenodo.
 
 - Lorea Flores
   ([0000-0002-0082-4072](https://orcid.org/0000-0002-0082-4072))
-  - Data Collection, Experimental Design, Data Curation
+  - Data Collection, Experimental Design, Data Curation, Pictures
   - <lflorescompains@gmail.com>
   - Laboratory of Stream Ecology, Department of Plant Biology and
     Ecology, Faculty of Science and Technology, University of the Basque
@@ -117,6 +117,14 @@ folder.
   the experiments with *Ischnura elegans* are not given and marked as
   NA.
 
+## Habitat Pictures
+
+Find example pictures of the habitat complexity levels 1 to 4 in
+pictogram style in the folder `pictures`. The original pictures were
+taken by Lorea Flores and published in Flores et al. (2016), figure 1.
+Mireia Aranbarri and Ioar de Guzmán created the pictograms from these
+pictures.
+
 ## Methods
 
 Please see the methods section of our
@@ -154,6 +162,15 @@ Aranbarri, M., Flores, L., Guzmán, I. de, Larrañaga, A., Elosegi, A.,
 Rall, B. C., & Reiss, J. (2025). *Habitat complexity reduces feeding
 strength of freshwater predators*. bioRxiv.
 <https://doi.org/10.1101/2025.02.22.639633>
+
+</div>
+
+<div id="ref-FloresEtAl2016HabitatComplexityAquatic" class="csl-entry">
+
+Flores, L., Bailey, R. A., Elosegi, A., Larrañaga, A., & Reiss, J.
+(2016). Habitat complexity in aquatic microcosms affects processes
+driven by detritivores. *PLOS One*, *11*(11), e0165065.
+<https://doi.org/10.1371/journal.pone.0165065>
 
 </div>
 
