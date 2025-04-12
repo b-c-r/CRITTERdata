@@ -1,7 +1,7 @@
-Habitat *c*omplexity *r*educes feed*i*ng s*t*reng*t*h of fr*e*shwater
+*C*omplexity *r*educes feed*i*ng s*t*reng*t*h of fr*e*shwater
 p*r*edators (CRITTER) — Data
 ================
-2025-03-26
+2025-04-12
 
 ## Summary
 
@@ -179,7 +179,7 @@ class="csl-entry">
 
 Flores, L., Reiss, J., Larrañaga, A., Rall, B. C., Aranbarri, M., &
 Guzmán, I. de. (2025). *Habitat complexity reduces feeding strength of
-freshwater predators (CRITTER) - Data*. Zenodo.
+freshwater predators (CRITTER) — Data*. Zenodo.
 <https://doi.org/10.5281/zenodo.14891980>
 
 </div>
@@ -189,7 +189,7 @@ class="csl-entry">
 
 Rall, B. C., Aranbarri, M., Flores, L., Guzmán, I. de, Larrañaga, A., &
 Reiss, J. (2025a). *Habitat complexity reduces feeding strength of
-freshwater predators (CRITTER) - Supplemental Statistics Report*.
+freshwater predators (CRITTER) — Supplemental Statistics Report*.
 Zenodo. <https://doi.org/10.5281/zenodo.14898820>
 
 </div>
@@ -199,7 +199,7 @@ class="csl-entry">
 
 Rall, B. C., Aranbarri, M., Flores, L., Guzmán, I. de, Larrañaga, A., &
 Reiss, J. (2025b). *Habitat complexity reduces feeding strength of
-freshwater predators (CRITTER) - Code*. Zenodo.
+freshwater predators (CRITTER) — Code*. Zenodo.
 <https://doi.org/10.5281/zenodo.14894598>
 
 </div>
