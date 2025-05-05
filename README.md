@@ -163,9 +163,9 @@ entry-spacing="0" line-spacing="2">
 <div id="ref-AranbarriEtAl2025ComplexityReducesFeeding"
 class="csl-entry">
 
-Aranbarri, M., Flores, L., Guzmán, I. de, Larrañaga, A., Elosegi, A.,
+Aranbarri, M., Flores, L., de Guzmán, I., Larrañaga, A., Elosegi, A.,
 Rall, B. C., & Reiss, J. (2025). *Habitat complexity reduces feeding
-strength of freshwater predators*. bioRxiv.
+strength of freshwater predators* (2025.02.22.639633). bioRxiv.
 <https://doi.org/10.1101/2025.02.22.639633>
 
 </div>
@@ -192,7 +192,7 @@ freshwater predators (CRITTER) — Data*. Zenodo.
 <div id="ref-RallEtAl2025ComplexityReducesFeedingCode"
 class="csl-entry">
 
-Rall, B. C., Aranbarri, M., Flores, L., Guzmán, I. de, Larrañaga, A., &
+Rall, B. C., Aranbarri, M., Flores, L., de Guzmán, I., Larrañaga, A., &
 Reiss, J. (2025a). *Habitat complexity reduces feeding strength of
 freshwater predators (CRITTER) — Code*. Zenodo.
 <https://doi.org/10.5281/zenodo.14894598>
@@ -202,7 +202,7 @@ freshwater predators (CRITTER) — Code*. Zenodo.
 <div id="ref-RallEtAl2025ComplexityReducesFeedingStatistics"
 class="csl-entry">
 
-Rall, B. C., Aranbarri, M., Flores, L., Guzmán, I. de, Larrañaga, A., &
+Rall, B. C., Aranbarri, M., Flores, L., de Guzmán, I., Larrañaga, A., &
 Reiss, J. (2025b). *Habitat complexity reduces feeding strength of
 freshwater predators (CRITTER) — Supplemental Statistics Report*.
 Zenodo. <https://doi.org/10.5281/zenodo.14898820>
