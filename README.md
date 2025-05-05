@@ -13,8 +13,7 @@ information on related works.
 ## License
 
 The data and the pictures are published under a [**Creative Commons BY
-4.0**](https://creativecommons.org/licenses/by/4.0/) license. We used
-citation style files downloaded from the Zotero Style Repository
+4.0**](https://creativecommons.org/licenses/by/4.0/) license.
 
 ## How to cite:
 
