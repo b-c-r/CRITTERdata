@@ -1,7 +1,7 @@
 *C*omplexity *r*educes feed*i*ng s*t*reng*t*h of fr*e*shwater
 p*r*edators (CRITTER) — Data
 ================
-2025-04-12
+2025-05-05
 
 ## Summary
 
@@ -13,14 +13,15 @@ information on related works.
 ## License
 
 The data and the pictures are published under a [**Creative Commons BY
-4.0**](https://creativecommons.org/licenses/by/4.0/) license.
+4.0**](https://creativecommons.org/licenses/by/4.0/) license. We used
+citation style files downloaded from the Zotero Style Repository
 
 ## How to cite:
 
-If you use our data or our habitat pictograms, please cite us:
+If you use our data or our habitat silhouettes, please cite us:
 
-Flores et al. (2025): Habitat complexity reduces feeding strength of
-freshwater predators (CRITTER) - Data. Zenodo.
+Flores et al. (2025): Complexity reduces feeding strength of freshwater
+predators (CRITTER) - Data. Zenodo.
 <https://doi.org/10.5281/zenodo.14891980>
 
 ## Authors
@@ -66,6 +67,9 @@ freshwater predators (CRITTER) - Data. Zenodo.
   - Laboratory of Stream Ecology, Dept. of Plant Biology and Ecology,
     Faculty of Science and Technology, University of the Basque Country,
     UPV/EHU PO Box 644, 48080 Bilbao, Spain.
+  - INRAE, UMR 1224, Ecologie Comportementale et Biologie des
+    Populations de Poissons, Aquapôle, quartier Ibarron, 64310 Saint-Pée
+    sur Nivelle, France.
 
 ## Related Works
 
@@ -75,12 +79,12 @@ freshwater predators (CRITTER) - Data. Zenodo.
 - [Data on GitHub](https://github.com/b-c-r/CRITTERdata)
 
 - [R-Code on Zenodo](https://doi.org/10.5281/zenodo.14894598) (Rall et
-  al., 2025b)
+  al., 2025a)
 
 - [R-Code on GitHub](https://github.com/b-c-r/CRITTERdata)
 
 - [Statistical Report on
-  Zenodo](https://doi.org/10.5281/zenodo.14898819) (Rall et al., 2025a)
+  Zenodo](https://doi.org/10.5281/zenodo.14898819) (Rall et al., 2025b)
 
 - [Statistical Report on
   GitHub](https://github.com/b-c-r/CRITTERstatistics)
@@ -119,10 +123,12 @@ folder.
 
 ## Habitat Pictures
 
-Find example pictures of the habitat complexity levels 1 to 4 in
-pictogram style in the folder `pictures`. The original pictures were
-taken by Lorea Flores and published in Flores et al. (2016), figure 1.
-Mireia Aranbarri and Ioar de Guzmán created the pictograms from these
+Find pictures and silhouettes of the habitat complexity levels 1 to 4 as
+published in the folder `pictures`. `all_habitat_levels_numbered.png`
+was originally published in Flores et al. (2016), figure 1, under a
+[**Creative Commons BY
+4.0**](https://creativecommons.org/licenses/by/4.0/) license. Mireia
+Aranbarri and Ioar de Guzmán created the silhouettes from these
 pictures.
 
 ## Methods
@@ -184,23 +190,23 @@ freshwater predators (CRITTER) — Data*. Zenodo.
 
 </div>
 
-<div id="ref-RallEtAl2025ComplexityReducesFeedingStatistics"
-class="csl-entry">
-
-Rall, B. C., Aranbarri, M., Flores, L., Guzmán, I. de, Larrañaga, A., &
-Reiss, J. (2025a). *Habitat complexity reduces feeding strength of
-freshwater predators (CRITTER) — Supplemental Statistics Report*.
-Zenodo. <https://doi.org/10.5281/zenodo.14898820>
-
-</div>
-
 <div id="ref-RallEtAl2025ComplexityReducesFeedingCode"
 class="csl-entry">
 
 Rall, B. C., Aranbarri, M., Flores, L., Guzmán, I. de, Larrañaga, A., &
-Reiss, J. (2025b). *Habitat complexity reduces feeding strength of
+Reiss, J. (2025a). *Habitat complexity reduces feeding strength of
 freshwater predators (CRITTER) — Code*. Zenodo.
 <https://doi.org/10.5281/zenodo.14894598>
+
+</div>
+
+<div id="ref-RallEtAl2025ComplexityReducesFeedingStatistics"
+class="csl-entry">
+
+Rall, B. C., Aranbarri, M., Flores, L., Guzmán, I. de, Larrañaga, A., &
+Reiss, J. (2025b). *Habitat complexity reduces feeding strength of
+freshwater predators (CRITTER) — Supplemental Statistics Report*.
+Zenodo. <https://doi.org/10.5281/zenodo.14898820>
 
 </div>
 

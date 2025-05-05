@@ -1,7 +1,7 @@
 ---
 title: "*C*omplexity *r*educes feed*i*ng s*t*reng*t*h of fr*e*shwater p*r*edators (CRITTER) — Data"
 bibliography: references/CRITTERdata.bib
-csl: references/methods-in-ecology-and-evolution.csl
+csl: "https://raw.githubusercontent.com/citation-style-language/styles/refs/heads/master/dependent/journal-of-animal-ecology.csl"
 date: "`r Sys.Date()`"
 output: github_document
 ---
@@ -16,9 +16,9 @@ The data and the pictures are published under a [**Creative Commons BY 4.0**](ht
 
 ## How to cite:
 
-If you use our data or our habitat pictograms, please cite us:
+If you use our data or our habitat silhouettes, please cite us:
 
-Flores et al. (2025): Habitat complexity reduces feeding strength of freshwater predators (CRITTER) - Data. Zenodo. https://doi.org/10.5281/zenodo.14891980
+Flores et al. (2025): Complexity reduces feeding strength of freshwater predators (CRITTER) - Data. Zenodo. https://doi.org/10.5281/zenodo.14891980
 
 ## Authors
 
@@ -46,6 +46,7 @@ Flores et al. (2025): Habitat complexity reduces feeding strength of freshwater 
     -   Data Curation
     -   [mirenioar.deguzman@ehu.eus](mailto:mirenioar.deguzman@ehu.eus)
     -   Laboratory of Stream Ecology, Dept. of Plant Biology and Ecology, Faculty of Science and Technology, University of the Basque Country, UPV/EHU PO Box 644, 48080 Bilbao, Spain.
+    -   INRAE, UMR 1224, Ecologie Comportementale et Biologie des Populations de Poissons, Aquapôle, quartier Ibarron, 64310 Saint-Pée sur Nivelle, France.
 
 ## Related Works
 
@@ -80,7 +81,7 @@ The data is provided as "critter_data.csv" in the repositories main folder.
 
 ## Habitat Pictures
 
-Find example pictures of the habitat complexity levels 1 to 4 in pictogram style in the folder `pictures`. The original pictures were taken by Lorea Flores and published in @FloresEtAl2016HabitatComplexityAquatic, figure 1. Mireia Aranbarri and Ioar de Guzmán created the pictograms from these pictures.
+Find pictures and silhouettes of the habitat complexity levels 1 to 4 as published in the folder `pictures`. `all_habitat_levels_numbered.png` was originally published in @FloresEtAl2016HabitatComplexityAquatic, figure 1, under a [**Creative Commons BY 4.0**](https://creativecommons.org/licenses/by/4.0/) license. Mireia Aranbarri and Ioar de Guzmán created the silhouettes from these pictures.
 
 ## Methods
 
