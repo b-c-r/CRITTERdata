@@ -1,5 +1,5 @@
 ---
-title: "*C*omplexity *r*educes feed*i*ng s*t*reng*t*h of fr*e*shwater p*r*edators (CRITTER) — Data"
+title: "Habitat *C*omplexity *r*educes feed*i*ng s*t*reng*t*h of fr*e*shwater p*r*edators (CRITTER) — Data"
 bibliography: references/CRITTERdata.bib
 csl: "https://raw.githubusercontent.com/citation-style-language/styles/refs/heads/master/dependent/journal-of-animal-ecology.csl"
 date: "`r Sys.Date()`"
