@@ -1,7 +1,8 @@
 Habitat *c*omplexity *r*educes feed*i*ng s*t*reng*t*h of fr*e*shwater
 p*r*edators (CRITTER) — Data
 ================
-2025-05-05
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15348769.svg)](https://doi.org/10.5281/zenodo.15348769)
 
 ## Summary
 
@@ -17,11 +18,25 @@ The data and the pictures are published under a [**Creative Commons BY
 
 ## How to cite:
 
-If you use our data or our habitat silhouettes, please cite us:
+If you use our data, pictures or our habitat silhouettes, please cite
+us:
 
-Flores et al. (2025): Complexity reduces feeding strength of freshwater
-predators (CRITTER) - Data. Zenodo.
+Flores, L., Reiss, J., Larrañaga, A., Rall, B. C., Aranbarri, M., and de
+Guzmán, I. (2025): Habitat complexity reduces feeding strength of
+freshwater predators (CRITTER) — Data. Zenodo.
 <https://doi.org/10.5281/zenodo.14891980>
+
+Specific version(s):
+
+Flores, L., Reiss, J., Larrañaga, A., Rall, B. C., Aranbarri, M., and de
+Guzmán, I. (2025): Habitat complexity reduces feeding strength of
+freshwater predators (CRITTER) — Data (v0.1.2). Zenodo.
+<https://doi.org/10.5281/zenodo.15348769>
+
+Flores, L., Reiss, J., Larrañaga, A., Rall, B. C., Aranbarri, M., and de
+Guzmán, I. (2025): Complexity reduces feeding strength of freshwater
+predators (CRITTER) - Data (v0.1.0). Zenodo.
+<https://doi.org/10.5281/zenodo.14891981>
 
 ## Authors
 
@@ -80,12 +95,12 @@ predators (CRITTER) - Data. Zenodo.
 - [R-Code on Zenodo](https://doi.org/10.5281/zenodo.14894598) (Rall et
   al., 2025a)
 
-- [R-Code on GitHub](https://github.com/b-c-r/CRITTERdata)
+- [R-Code on GitHub](https://github.com/b-c-r/CRITTERcode)
 
-- [Statistical Report on
+- [Supplemental Statistics Report on
   Zenodo](https://doi.org/10.5281/zenodo.14898819) (Rall et al., 2025b)
 
-- [Statistical Report on
+- [Supplemental Statistics Report on
   GitHub](https://github.com/b-c-r/CRITTERstatistics)
 
 - [Scientific Preprint
@@ -182,10 +197,10 @@ driven by detritivores. *PLOS One*, *11*(11), e0165065.
 <div id="ref-FloresEtAl2025ComplexityReducesFeedingData"
 class="csl-entry">
 
-Flores, L., Reiss, J., Larrañaga, A., Rall, B. C., Aranbarri, M., &
-Guzmán, I. de. (2025). *Habitat complexity reduces feeding strength of
-freshwater predators (CRITTER) — Data*. Zenodo.
-<https://doi.org/10.5281/zenodo.14891980>
+Flores, L., Reiss, J., Larrañaga, A., Rall, B. C., Aranbarri, M., & de
+Guzmán, I. (2025). *Habitat complexity reduces feeding strength of
+freshwater predators (CRITTER) — Data (v0.1.2)*. Zenodo.
+<https://doi.org/10.5281/zenodo.15348769>
 
 </div>
 
@@ -194,8 +209,8 @@ class="csl-entry">
 
 Rall, B. C., Aranbarri, M., Flores, L., de Guzmán, I., Larrañaga, A., &
 Reiss, J. (2025a). *Habitat complexity reduces feeding strength of
-freshwater predators (CRITTER) — Code*. Zenodo.
-<https://doi.org/10.5281/zenodo.14894598>
+freshwater predators (CRITTER) — Code (v0.1.2)*. Zenodo.
+<https://doi.org/10.5281/zenodo.15346225>
 
 </div>
 
@@ -204,8 +219,8 @@ class="csl-entry">
 
 Rall, B. C., Aranbarri, M., Flores, L., de Guzmán, I., Larrañaga, A., &
 Reiss, J. (2025b). *Habitat complexity reduces feeding strength of
-freshwater predators (CRITTER) — Supplemental Statistics Report*.
-Zenodo. <https://doi.org/10.5281/zenodo.14898820>
+freshwater predators (CRITTER) — Supplemental Statistics Report
+(v.0.1.2)*. Zenodo. <https://doi.org/10.5281/zenodo.15348995>
 
 </div>
 

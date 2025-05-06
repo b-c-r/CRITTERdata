@@ -2,9 +2,11 @@
 title: "Habitat *c*omplexity *r*educes feed*i*ng s*t*reng*t*h of fr*e*shwater p*r*edators (CRITTER) — Data"
 bibliography: references/CRITTERdata.bib
 csl: "https://raw.githubusercontent.com/citation-style-language/styles/refs/heads/master/dependent/journal-of-animal-ecology.csl"
-date: "`r Sys.Date()`"
+# date: "`r Sys.Date()`"
 output: github_document
 ---
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15348769.svg)](https://doi.org/10.5281/zenodo.15348769)
 
 ## Summary
 
@@ -16,9 +18,15 @@ The data and the pictures are published under a [**Creative Commons BY 4.0**](ht
 
 ## How to cite:
 
-If you use our data or our habitat silhouettes, please cite us:
+If you use our data, pictures or our habitat silhouettes, please cite us:
 
-Flores et al. (2025): Complexity reduces feeding strength of freshwater predators (CRITTER) - Data. Zenodo. https://doi.org/10.5281/zenodo.14891980
+Flores, L., Reiss, J., Larrañaga, A., Rall, B. C., Aranbarri, M., and de Guzmán, I. (2025): Habitat complexity reduces feeding strength of freshwater predators (CRITTER) — Data. Zenodo. https://doi.org/10.5281/zenodo.14891980
+
+Specific version(s):
+
+Flores, L., Reiss, J., Larrañaga, A., Rall, B. C., Aranbarri, M., and de Guzmán, I. (2025): Habitat complexity reduces feeding strength of freshwater predators (CRITTER) — Data (v0.1.2). Zenodo. https://doi.org/10.5281/zenodo.15348769
+
+Flores, L., Reiss, J., Larrañaga, A., Rall, B. C., Aranbarri, M., and de Guzmán, I. (2025): Complexity reduces feeding strength of freshwater predators (CRITTER) - Data (v0.1.0). Zenodo. https://doi.org/10.5281/zenodo.14891981
 
 ## Authors
 
@@ -56,11 +64,11 @@ Flores et al. (2025): Complexity reduces feeding strength of freshwater predator
 
 -   [R-Code on Zenodo](https://doi.org/10.5281/zenodo.14894598) [@RallEtAl2025ComplexityReducesFeedingCode]
 
--   [R-Code on GitHub](https://github.com/b-c-r/CRITTERdata)
+-   [R-Code on GitHub](https://github.com/b-c-r/CRITTERcode)
 
--   [Statistical Report on Zenodo](https://doi.org/10.5281/zenodo.14898819) [@RallEtAl2025ComplexityReducesFeedingStatistics]
+-   [Supplemental Statistics Report on Zenodo](https://doi.org/10.5281/zenodo.14898819) [@RallEtAl2025ComplexityReducesFeedingStatistics]
 
--   [Statistical Report on GitHub](https://github.com/b-c-r/CRITTERstatistics)
+-   [Supplemental Statistics Report on GitHub](https://github.com/b-c-r/CRITTERstatistics)
 
 -   [Scientific Preprint Article](https://doi.org/10.1101/2025.02.22.639633) [@AranbarriEtAl2025ComplexityReducesFeeding]
 
