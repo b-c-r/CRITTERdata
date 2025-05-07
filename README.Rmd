@@ -45,7 +45,7 @@ Flores, L., Reiss, J., Larrañaga, A., Rall, B. C., Aranbarri, M., and de Guzmá
 -   Björn C. Rall ([0000-0002-3191-8389](https://orcid.org/0000-0002-3191-8389))
     -   Experimental Design, Data Curation
     -   [bjoern.rall@uni-konstanz.de](mailto:bjoern.rall@uni-konstanz.de)
-    -   Aquatic Ecology and Evolution Group, Limnological Institute, University of Konstanz, Mainaustraße 252, 78464 Konstanz/Egg, Germany
+    -   Aquatic Ecology and Evolution, Department of Biology, University of Konstanz, Universitätsstraße 10, 78464 Konstanz, Germany
 -   Mireia Aranbarri ([0009-0001-3506-0914](https://orcid.org/0009-0001-3506-0914))
     -   Data Curation
     -   [mireia.arambarri@ehu.eus](mailto:mireia.arambarri@ehu.eus)

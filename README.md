@@ -6,7 +6,8 @@ p*r*edators (CRITTER) — Data
 
 ## Summary
 
-This data is supplementing our preprint article by Aranbarri et al.
+This data is supplementing our [scientific preprint
+article](https://doi.org/10.1101/2025.02.22.639633) by Aranbarri et al.
 (2025) investigating the effect of habitat complexity on the feeding
 functional response of two freshwater invertebrate predators. Find below
 information on related works.
@@ -64,9 +65,8 @@ predators (CRITTER) - Data (v0.1.0). Zenodo.
   ([0000-0002-3191-8389](https://orcid.org/0000-0002-3191-8389))
   - Experimental Design, Data Curation
   - <bjoern.rall@uni-konstanz.de>
-  - Aquatic Ecology and Evolution Group, Limnological Institute,
-    University of Konstanz, Mainaustraße 252, 78464 Konstanz/Egg,
-    Germany
+  - Aquatic Ecology and Evolution, Department of Biology, University of
+    Konstanz, Universitätsstraße 10, 78464 Konstanz, Germany
 - Mireia Aranbarri
   ([0009-0001-3506-0914](https://orcid.org/0009-0001-3506-0914))
   - Data Curation
