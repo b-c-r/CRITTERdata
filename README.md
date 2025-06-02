@@ -158,7 +158,8 @@ al., 2025) for details on how the data was collected.
 - Lorea Flores was funded by a grant by the **Spanish Ministry of
   Education and Culture**.
 - Ioar de Guzmán was funded by the **Spanish Ministry of Science,
-  Innovation and Universities (TED2021-129966B-C31)**.
+  Innovation and Universities (TED2021-129966B-C31)** and by the
+  **University of the Basque Country (POSTUPV24/47)**.
 - Julia Reiss was supported by a **Royal Society of London Starting
   Grant**.
 - Björn C. Rall gratefully acknowledges the funding by the **German
